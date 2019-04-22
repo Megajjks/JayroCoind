@@ -1,0 +1,25 @@
+{
+  "name": "jayrocoind",
+  "version": "1.0.0",
+  "description": "Prueba de la creación de un blockchain creando la moneda de Jayro",
+  "main": "app.js",
+  "author": "Jayro Salazar <megajjks@gmail.com> (Sr.Ku)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megajjks/JayroCoind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Megajjks/JayroCoind/issues"
+  },
+  "homepage": "https://github.com/Megajjks/JayroCoind#readme"
+}
